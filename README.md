@@ -6,7 +6,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/jahangiralom99/smart-parking-management
+  git clone https://github.com/jahangiralom99/Manage-Employees-Ass
 ```
 
 Go to the project directory
